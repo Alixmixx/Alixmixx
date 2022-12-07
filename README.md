@@ -17,6 +17,7 @@ Born2beRoot | [![amuller's 42 Born2beroot Score](https://badge42.vercel.app/api/
 Ft_printf | [![amuller's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/2881974)](https://github.com/JaeSeoKim/badge42) |
 Push_swap | [![amuller's 42 push_swap Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/2890459)](https://github.com/JaeSeoKim/badge42) |
 Pipex | [![amuller's 42 pipex Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/2900517)](https://github.com/JaeSeoKim/badge42) |
+So_long |  ... |
 
 </div>
 

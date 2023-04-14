@@ -20,8 +20,10 @@ Pipex | [![amuller's 42 pipex Score](https://badge42.vercel.app/api/v2/clb893889
 So_long | [![amuller's 42 so_long Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/2908421)](https://github.com/JaeSeoKim/badge42) |
 Philosophers | [![amuller's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/2912206)](https://github.com/JaeSeoKim/badge42) |
  Minishell | [![amuller's 42 minishell Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/2928742)](https://github.com/JaeSeoKim/badge42) |
- Cub3D | [![amuller's 42 cub3D Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/2928742)](https://github.com/JaeSeoKim/badge42) |
- CPP | [![amuller's 42 cpp_04 Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/2928742)](https://github.com/JaeSeoKim/badge42) |
+ NetPractice | [![amuller's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/3025995)](https://github.com/JaeSeoKim/badge42) |
+ Cub3D | [![amuller's 42 cub3d Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/3025996)](https://github.com/JaeSeoKim/badge42) |
+ CPP | [![amuller's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/3064333)](https://github.com/JaeSeoKim/badge42) |
+  Event April | [![amuller's 42 [Event]April_2023 Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/3052856)](https://github.com/JaeSeoKim/badge42) |
 
 </div>
 

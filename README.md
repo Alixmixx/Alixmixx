@@ -23,6 +23,9 @@ Philosophers | [![amuller's 42 Philosophers Score](https://badge42.vercel.app/ap
  NetPractice | [![amuller's 42 NetPractice Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/3025995)](https://github.com/JaeSeoKim/badge42) |
  Cub3D | [![amuller's 42 cub3d Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/3025996)](https://github.com/JaeSeoKim/badge42) |
  CPP | [![amuller's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/3064333)](https://github.com/JaeSeoKim/badge42) |
+ Ft_irc | [![amuller's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/3091577)](https://github.com/JaeSeoKim/badge42) |
+ Inception | [![amuller's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/3126426)](https://github.com/JaeSeoKim/badge42) |
+ Transcendence | [![amuller's 42 CPP Module 04 Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/3126426)](https://github.com/JaeSeoKim/badge42) |
   Event April | [![amuller's 42 [Event]April_2023 Score](https://badge42.vercel.app/api/v2/clb89388900490gk4b4t4wgwm/project/3052856)](https://github.com/JaeSeoKim/badge42) |
 
 </div>

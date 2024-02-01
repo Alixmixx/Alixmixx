@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Alix Muller</h1>
 
-I started my 42 journey the 07/11/2022 at 42Paris. After finishing the Common Core, I decided to discover Korea while continuing my cursus.
+I started my 42 journey the 07/11/2022 at 42Paris and I decided to discover Korea while continuing my cursus.
 
-I finished the Common Core the 03/10/2023 and I am currently at 42Seoul, learning and exploring the cybersecurity branch of the Cursus
+I finished the Common Core the 03/10/2023 and I am currently at 42Seoul, learning and exploring the cybersecurity.
 
 <h1 align="center">My 42 Cursus progress 💻</h1>
 

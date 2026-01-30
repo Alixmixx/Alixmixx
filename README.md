@@ -1,73 +1,91 @@
-<h1 align="center">Hey, I'm Alix Muller 👋</h1>
+<h1 align="center">Alix Muller</h1>
+<h3 align="center">Full-Stack AI Engineer | Building RAG, LLM, and Agentic Systems</h3>
 
-I kicked off my coding journey at 42 Paris on 07/11/2022. After finishing the Common Core by 03/10/2023, I moved to 42 Seoul to explore Korea while diving deeper into Cybersecurity, Data Science, and AI. Now, I’m a full-stack software engineer at Mirinae Technologies, building HyperFlow, a no-code platform for AI pipelines.
-
-I love solving problems with code and learning new tech along the way.
-
-<h1 align="center">My 42 Cursus progress 💻</h1>
-
-<div align="center">
-
-[![amuller's 42 stats](https://badge.mediaplus.ma/darkblue/amuller?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
-</div>
-
-<div align="center">
-  
-### Common Core
-| Project         | Subject         | Status                                                                                   |
-|-----------------|-----------------|------------------------------------------------------------------------------------------|
-| Libft           | C               | <img src="125.svg" alt="Libft Score" width="100">                                        |
-| get_next_line   | C               | <img src="125.svg" alt="get_next_line Score" width="100">                                |
-| Born2beroot     | VM & Network    | <img src="125.svg" alt="Born2beroot Score" width="100">                                  |
-| ft_printf       | C               | <img src="125.svg" alt="ft_printf Score" width="100">                                    |
-| push_swap       | C               | <img src="125.svg" alt="push_swap Score" width="100">                                    |
-| minitalk        | C               | <img src="125.svg" alt="minitalk Score" width="100">                                     |
-| so_long         | C               | <img src="125.svg" alt="so_long Score" width="100">                                      |
-| Philosophers    | C               | <img src="125.svg" alt="Philosophers Score" width="100">                                 |
-| minishell       | C               | <img src="125.svg" alt="minishell Score" width="100">                                    |
-| NetPractice     | Network         | <img src="100.svg" alt="NetPractice Score" width="100">                                  |
-| cub3d           | C               | <img src="125.svg" alt="cub3d Score" width="100">                                        |
-| CPP modules          | C++             | <img src="100.svg" alt="CPP 04 Score" width="100">                                       |
-| ft_irc          | C++             | <img src="125.svg" alt="ft_irc Score" width="100">                                       |
-| Inception       | Docker          | <img src="125.svg" alt="Inception Score" width="100">                                    |
-| ft_transcendence| Web             | <img src="100.svg" alt="ft_transcendence Score" width="100">                             |
-
-### Cybersecurity
-| Project   | Subject   | Status                                                                                   |
-|-----------|-----------|------------------------------------------------------------------------------------------|
-| snow-crash| Security  | <img src="125.svg" alt="snow-crash Score" width="100">                                   |
-| rainfall  | Security  | <img src="125.svg" alt="rainfall Score" width="100">                                     |
-| override  | Security  | <img src="125.svg" alt="override Score" width="100">                                     |
-| boot2root | Security  | <img src="125.svg" alt="boot2root Score" width="100">                                    |
-
-### Kernel Development
-| Project | Subject       | Status                                                                                   |
-|---------|---------------|------------------------------------------------------------------------------------------|
-| kfs-1   | Kernel / Rust | <img src="120.svg" alt="kfs-1 Score" width="100">                                        |
-| kfs-2   | Kernel / Rust | <img src="118.svg" alt="kfs-2 Score" width="100">                                        |
-| kfs-3   | Kernel / Rust | <img src="100.svg" alt="kfs-3 Score" width="100">                                        |
-| kfs-4   | Kernel / Rust | <img src="125.svg" alt="kfs-4 Score" width="100">                                        |
-
-*(Note: Exams are completed up to Rank 06—100% scores across the board!)*
-
----
-</div>
-
-<br>
-<h2 align="center"> 💻 Tech Stack: </h1>
 <p align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,rust,html,css,javascript,react,nestjs,ts,python,docker,bash,git&perline=6" />
-</a>
+  <a href="https://github.com/Alixmixx">GitHub</a> •
+  <a href="https://www.linkedin.com/in/alix-muller-124675237">LinkedIn</a>
 </p>
 
 ---
 
-<h2 align="center">What I’m Up To</h2>
-- Building HyperFlow at Mirinae Technologies: A no-code platform for AI pipelines using JavaScript, React, and Python.
+## About Me
+
+I'm passionate about making AI development accessible through innovative, scalable solutions. Currently leading development of **HyperFlow AI** at **Mirinae Technologies** – a no-code platform that democratizes RAG, agentic, and LLM pipeline creation.
+
+My journey started at **42 School (Paris)**, where I developed deep expertise in systems programming and full-stack development through intensive project-based learning. I've since specialized in AI/ML systems, combining low-level programming knowledge with cutting-edge AI technologies.
+
+### What I Do
+
+- **Build production AI systems**: RAG pipelines, agentic workflows, and LLM integrations
+- **Architect scalable solutions**: Designing enterprise-grade AI infrastructure
+- **Create developer tools**: No-code platforms that simplify complex AI workflows
+- **Optimize LLM applications**: Prompt engineering, model fine-tuning, and performance optimization
+
+---
+
+## Tech Stack
+
+<p align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,fastapi,nestjs,rust,c,docker,git&perline=5" />
+</a>
+</p>
+
+**AI/ML**: Large Language Models (LLMs) • RAG Systems • Prompt Engineering • Agentic AI  
+**Backend**: Python • FastAPI • Node.js • NestJS  
+**Frontend**: React • TypeScript • JavaScript  
+**Systems**: Rust • C • Docker • Linux  
+
+---
+
+## Featured Work
+
+### HyperFlow AI @ Mirinae Technologies
+A no-code platform enabling developers and non-technical users to build sophisticated AI pipelines without complex coding. Features include:
+- Visual RAG pipeline builder
+- Multi-agent orchestration system
+- Pre-built LLM integrations
+- Enterprise-grade deployment infrastructure
+
+---
+
+## Background & Education
+
+<details>
+<summary><b>42 School Journey</b> (Click to expand)</summary>
+
+Completed the intensive Common Core curriculum at 42 Paris, followed by advanced specializations in Cybersecurity and Kernel Development at 42 Seoul.
+
+### Highlights
+- **Systems Programming**: Built everything from scratch – memory allocators, shells, game engines
+- **Cybersecurity**: Penetration testing, binary exploitation, reverse engineering
+- **Kernel Development**: Low-level OS programming in Rust
+- **Full-Stack**: Modern web applications with complete infrastructure
+
+### Key Projects
+- **ft_transcendence**: Full-stack web application with real-time features
+- **Inception**: Multi-container Docker infrastructure
+- **Kernel Development Series**: Custom OS components in Rust
+- **Security Track**: Binary exploitation and system hardening
+
+[![amuller's 42 stats](https://badge.mediaplus.ma/darkblue/amuller?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+</details>
+
+---
+
+## Let's Connect
+
+I'm always interested in discussing:
+- AI development and LLM applications
+- RAG system architecture
+- Agentic AI and autonomous systems
+- Building developer tools and platforms
+
+Feel free to reach out for collaboration, technical discussions, or opportunities!
 
 ---
 
 <p align="center">
-<img src="https://github.com/lorenzoedoardofrancesco/lorenzoedoardofrancesco/blob/main/42Elite.png" width="50%" height="50%">
+  <i>Transforming complex AI technology into practical tools that empower everyone.</i>
 </p>

@@ -54,11 +54,14 @@
 <!--    ABOUT ME                                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-about.svg" width="180"/>
+<div align="center">
+  <img src="./assets/section-about.svg" width="180"/>
+</div>
 
-<table>
+<div align="center">
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ### What I Build
 
@@ -68,21 +71,15 @@ location: Strasbourg, France
 open_to: Remote worldwide | Relocation
 
 expertise:
-  - Multi-Agent LLM Pipelines (LangChain/LangGraph)
-  - RAG Architectures & Vector Databases
+  - Multi-Agent LLM Pipelines
+  - RAG Architectures & Vector DBs
   - Production AI Infrastructure
   - MCP Servers & Agent Tooling
   - Full-Stack AI Applications
-
-recent_highlight: |
-  Architected an AI automation pipeline that reduced
-  app development from 40 hours to 6 hours
-
-philosophy: "Ship AI that works at scale, not demos."
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ### Current Focus
 
@@ -90,8 +87,6 @@ philosophy: "Ship AI that works at scale, not demos."
 - **Training** neural networks for chess evaluation
 - **Writing** kernels in Rust for fun
 - **Shipping** MCP tools for LLM video editing
-
-<br/>
 
 ### Background
 
@@ -103,6 +98,7 @@ philosophy: "Ship AI that works at scale, not demos."
 </td>
 </tr>
 </table>
+</div>
 
 <br/>
 
@@ -114,7 +110,9 @@ philosophy: "Ship AI that works at scale, not demos."
 <!--    EXPERIENCE                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-experience.svg" width="180"/>
+<div align="center">
+  <img src="./assets/section-experience.svg" width="180"/>
+</div>
 
 
 ```
@@ -147,7 +145,9 @@ f0e1d2c Technical Team Lead @ TICE Industries, Grand Est          — Sep 2016 �
 <!--    TECH STACK                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-tech.svg" width="180"/>
+<div align="center">
+  <img src="./assets/section-tech.svg" width="180"/>
+</div>
 
 
 <div align="center">
@@ -193,12 +193,14 @@ f0e1d2c Technical Team Lead @ TICE Industries, Grand Est          — Sep 2016 �
 <!--    EDUCATION                                                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-education.svg" width="180"/>
+<div align="center">
+  <img src="./assets/section-education.svg" width="180"/>
+</div>
 
-
-<table>
+<div align="center">
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td>
 
 ### Ecole 42 Paris → Seoul — Top 3%
 
@@ -212,17 +214,15 @@ Completed the intensive peer-to-peer curriculum at **42 Paris**, followed by adv
 | **Full-Stack** | Production web applications with complete infrastructure |
 
 </td>
-<td width="40%" valign="top" align="center">
+</tr>
+</table>
+</div>
 
-<br/>
+<div align="center">
 
 [![amuller's 42 stats](https://badge.mediaplus.ma/darkblue/amuller?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-<br/>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -234,7 +234,9 @@ Completed the intensive peer-to-peer curriculum at **42 Paris**, followed by adv
 <!--    CONNECT                                                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-connect.svg" width="180"/>
+<div align="center">
+  <img src="./assets/section-connect.svg" width="180"/>
+</div>
 
 
 <div align="center">

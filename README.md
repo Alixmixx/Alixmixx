@@ -28,10 +28,11 @@
   <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=protonmail&logoColor=white&labelColor=1a1b26" alt="Email"/>
 </a>
 &nbsp;
+<!--
 <a href="https://github.com/Alixmixx">
   <img src="https://komarev.com/ghpvc/?username=Alixmixx&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile Views"/>
 </a>
-
+-->
 </div>
 
 <br/>
@@ -273,5 +274,5 @@ I'm always interested in discussing **multi-agent architectures**, **RAG at scal
 
   <br/>
 
-  <sub>Design inspired by <a href="https://github.com/red1-for-hek">red1-for-hek</a></sub>
+ <!-- Design inspired by red1-for-hek -->
 </div>

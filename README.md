@@ -219,11 +219,6 @@ Completed the intensive peer-to-peer curriculum at **42 Paris**, followed by adv
 </table>
 </div>
 
-<div align="center">
-
-[![amuller's 42 stats](https://badge.mediaplus.ma/darkblue/amuller?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-</div>
 
 <br/>
 
